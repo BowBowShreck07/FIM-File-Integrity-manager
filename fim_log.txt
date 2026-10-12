@@ -1,0 +1,118 @@
+2026-10-12 19:59:48 | INFO     | FIM started in 'baseline' mode
+2026-10-12 20:00:29 | INFO     | FIM started in 'baseline' mode
+2026-10-12 20:00:29 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:00:29 | INFO     | Baseline saved to 'baseline.json' (4 files, SHA256)
+2026-10-12 20:00:33 | INFO     | FIM started in 'check' mode
+2026-10-12 20:00:33 | INFO     | Loaded baseline from 'baseline.json' (4 files)
+2026-10-12 20:00:33 | CRITICAL | ⚠ BASELINE TAMPERED! The baseline file has been modified since it was created. Results may be unreliable.
+2026-10-12 20:00:33 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:00:33 | INFO     | Integrity check PASSED – no changes detected.
+2026-10-12 20:01:14 | INFO     | FIM started in 'baseline' mode
+2026-10-12 20:01:14 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:01:14 | INFO     | Baseline saved to 'baseline.json' (4 files, SHA256)
+2026-10-12 20:01:18 | INFO     | FIM started in 'check' mode
+2026-10-12 20:01:18 | INFO     | Loaded baseline from 'baseline.json' (4 files)
+2026-10-12 20:01:18 | INFO     | Baseline integrity verified ✓
+2026-10-12 20:01:18 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:01:18 | INFO     | Integrity check PASSED – no changes detected.
+2026-10-12 20:01:39 | INFO     | FIM started in 'check' mode
+2026-10-12 20:01:39 | INFO     | Loaded baseline from 'baseline.json' (4 files)
+2026-10-12 20:01:39 | INFO     | Baseline integrity verified ✓
+2026-10-12 20:01:39 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:01:39 | CRITICAL | MODIFIED: config.txt
+2026-10-12 20:01:39 | WARNING  | NEW: malware.exe
+2026-10-12 20:01:39 | CRITICAL | DELETED: scripts/hello.py
+2026-10-12 20:01:39 | WARNING  | Integrity check found 3 change(s).
+2026-10-12 20:01:39 | INFO     | CSV report saved to 'fim_report.csv'
+2026-10-12 20:01:39 | INFO     | HTML report saved to 'fim_report.html'
+2026-10-12 20:01:44 | INFO     | FIM started in 'baseline' mode
+2026-10-12 20:01:44 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA512
+2026-10-12 20:01:44 | INFO     | Baseline saved to 'baseline.json' (4 files, SHA512)
+2026-10-12 20:01:56 | INFO     | FIM started in 'baseline' mode
+2026-10-12 20:01:56 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:01:56 | INFO     | Baseline saved to 'baseline.json' (4 files, SHA256)
+2026-10-12 20:05:52 | INFO     | FIM started in 'baseline' mode
+2026-10-12 20:05:52 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:05:52 | INFO     | Baseline saved to 'baseline.json' (4 files, SHA256)
+2026-10-12 20:05:59 | INFO     | FIM started in 'check' mode
+2026-10-12 20:05:59 | INFO     | Loaded baseline from 'baseline.json' (4 files)
+2026-10-12 20:05:59 | INFO     | Baseline integrity verified ✓
+2026-10-12 20:05:59 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:05:59 | INFO     | Integrity check PASSED – no changes detected.
+2026-10-12 20:05:59 | INFO     | CSV report saved to 'fim_report.csv'
+2026-10-12 20:05:59 | INFO     | HTML report saved to 'fim_report.html'
+2026-10-12 20:06:04 | INFO     | FIM started in 'check' mode
+2026-10-12 20:06:04 | INFO     | Loaded baseline from 'baseline.json' (4 files)
+2026-10-12 20:06:04 | INFO     | Baseline integrity verified ✓
+2026-10-12 20:06:04 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:06:04 | CRITICAL | MODIFIED: config.txt
+2026-10-12 20:06:04 | WARNING  | Integrity check found 1 change(s).
+2026-10-12 20:06:08 | INFO     | FIM started in 'baseline' mode
+2026-10-12 20:06:08 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:06:08 | INFO     | Baseline saved to 'baseline.json' (4 files, SHA256)
+2026-10-12 20:10:23 | INFO     | FIM started in 'check' mode
+2026-10-12 20:10:23 | INFO     | Loaded baseline from 'baseline.json' (4 files)
+2026-10-12 20:10:23 | INFO     | Baseline integrity verified ✓
+2026-10-12 20:10:23 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:10:23 | INFO     | Integrity check PASSED – no changes detected.
+2026-10-12 20:23:09 | INFO     | FIM started in 'check' mode
+2026-10-12 20:23:09 | INFO     | Loaded baseline from 'baseline.json' (4 files)
+2026-10-12 20:23:09 | INFO     | Baseline integrity verified ✓
+2026-10-12 20:23:09 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:23:09 | INFO     | Integrity check PASSED – no changes detected.
+2026-10-12 20:23:20 | INFO     | FIM started in 'check' mode
+2026-10-12 20:23:20 | INFO     | Loaded baseline from 'baseline.json' (4 files)
+2026-10-12 20:23:20 | INFO     | Baseline integrity verified ✓
+2026-10-12 20:23:20 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:23:20 | INFO     | Integrity check PASSED – no changes detected.
+2026-10-12 20:23:20 | INFO     | FIM started in 'monitor' mode
+2026-10-12 20:23:20 | INFO     | Loaded baseline from 'baseline.json' (4 files)
+2026-10-12 20:23:20 | INFO     | Baseline integrity verified ✓
+2026-10-12 20:23:20 | INFO     | Monitor started: interval=5s, path='D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder'
+2026-10-12 20:23:20 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:23:25 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:23:30 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:23:35 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:23:40 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:23:45 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:23:50 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:23:55 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:24:00 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:24:05 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:24:10 | INFO     | Monitor stopped by user.
+2026-10-12 20:24:15 | INFO     | FIM started in 'check' mode
+2026-10-12 20:24:15 | INFO     | Loaded baseline from 'baseline.json' (4 files)
+2026-10-12 20:24:15 | INFO     | Baseline integrity verified ✓
+2026-10-12 20:24:15 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:24:15 | INFO     | Integrity check PASSED – no changes detected.
+2026-10-12 20:24:15 | INFO     | CSV report saved to 'fim_report.csv'
+2026-10-12 20:24:15 | INFO     | HTML report saved to 'fim_report.html'
+2026-10-12 20:24:55 | INFO     | FIM started in 'baseline' mode
+2026-10-12 20:24:55 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:24:55 | INFO     | Baseline saved to 'baseline.json' (4 files, SHA256)
+2026-10-12 20:25:03 | INFO     | FIM started in 'baseline' mode
+2026-10-12 20:25:03 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:25:03 | INFO     | Baseline saved to 'baseline.json' (4 files, SHA256)
+2026-10-12 20:25:14 | INFO     | FIM started in 'monitor' mode
+2026-10-12 20:25:14 | INFO     | Loaded baseline from 'baseline.json' (4 files)
+2026-10-12 20:25:14 | INFO     | Baseline integrity verified ✓
+2026-10-12 20:25:14 | INFO     | Monitor started: interval=5s, path='D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder'
+2026-10-12 20:25:14 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:25:19 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:25:24 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:25:29 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:25:34 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:25:39 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:25:44 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:25:44 | CRITICAL | MODIFIED: config.txt
+2026-10-12 20:25:44 | WARNING  | Integrity check found 1 change(s).
+2026-10-12 20:25:49 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:25:49 | CRITICAL | MODIFIED: config.txt
+2026-10-12 20:25:49 | WARNING  | Integrity check found 1 change(s).
+2026-10-12 20:25:54 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:25:54 | CRITICAL | MODIFIED: config.txt
+2026-10-12 20:25:54 | WARNING  | Integrity check found 1 change(s).
+2026-10-12 20:25:59 | INFO     | Scanned 4 file(s) in 'D:\Productivity\Mini-Proj\Sem-3\FIM-Tool\test_folder' using SHA256
+2026-10-12 20:25:59 | CRITICAL | MODIFIED: config.txt
+2026-10-12 20:25:59 | WARNING  | Integrity check found 1 change(s).
+2026-10-12 20:26:03 | INFO     | Monitor stopped by user.

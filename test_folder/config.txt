@@ -1,0 +1,4 @@
+This is a sample configuration file.
+database_host = localhost
+database_port = 5432
+secret_key = SUPER_SECRET_KEY_123456

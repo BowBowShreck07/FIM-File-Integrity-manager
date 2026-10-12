@@ -1,0 +1,30 @@
+{
+  "files": {
+    "config.txt": {
+      "hash": "954a0036000d015f2e549a748065677fbeb1e46dc4d9be97df959463ea1f0b38",
+      "modified": "2026-10-12T20:06:08.445036",
+      "size": 121
+    },
+    "data/users.csv": {
+      "hash": "1b6f559bdcefaf2f729fae2edd1d33c86eebc0460e136531d1d50e4212fd0941",
+      "modified": "2026-10-12T19:58:14.209794",
+      "size": 160
+    },
+    "logs/app.log": {
+      "hash": "dfbff0e52d8ee83683a03c411fb9718ac9bdfa91791d215f1262e60689eba93c",
+      "modified": "2026-10-12T19:58:16.234195",
+      "size": 83
+    },
+    "scripts/hello.py": {
+      "hash": "57339181f7e5e37fa9251510415af2de9a2103a992e5bdf5ec9bbe7a439fd8ac",
+      "modified": "2026-10-12T20:01:52.304152",
+      "size": 149
+    }
+  },
+  "metadata": {
+    "algorithm": "sha256",
+    "baseline_hash": "b5338f880710bad307d48bb7ba6efc494ea7e274cadfb395d68c9677a3418fee",
+    "created": "2026-10-12T20:25:03.226233",
+    "file_count": 4
+  }
+}
